@@ -1,0 +1,42 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
+*.swp
+
+# --- IDEs / Editors ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Python (Backend) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+dist/
+build/
+*.egg-info/
+.env
+
+# --- Node / React (Frontend) ---
+frontend/node_modules/
+frontend/build/
+frontend/.eslintcache
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# --- Docker ---
+.docker-compose.override.yml
+
+# --- Logs & Databases ---
+*.log
+*.sqlite3
