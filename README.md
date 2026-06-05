@@ -68,4 +68,3 @@ npm run dev
 
 ---
 **Maintained by: Nethru Randev**
-*Precision. Speed. Universality.*
