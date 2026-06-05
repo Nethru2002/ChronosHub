@@ -128,5 +128,5 @@ docker-compose up --build
 *   **Symbolic Evaluation:** Bypasses standard Python `eval()` for `sympy.sympify()`, providing both safety and infinite mathematical precision.
 
 ---
-**Developed by [Nethru Randev]**  
+**Developed by Nethru Randev**  
 *Universal. Precise. Unlimited.*
